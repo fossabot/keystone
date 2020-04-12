@@ -14,6 +14,7 @@
 [![Build Status](https://img.shields.io/circleci/project/github/keystonejs/keystone/master.svg)](https://circleci.com/gh/keystonejs/keystone)
 [![slack](https://keystone-community.now.sh//badge.svg)](https://keystone-community.now.sh/)
 [![Supported by Thinkmill](https://thinkmill.github.io/badge/heart.svg)](http://thinkmill.com.au/?utm_source=github&utm_medium=badge&utm_campaign=react-select)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FVinayaSathyanarayana%2Fkeystone.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FVinayaSathyanarayana%2Fkeystone?ref=badge_shield)
 
 ## Contents
 
@@ -288,3 +289,6 @@ KeystoneJS adheres to the [Contributor Covenant Code of Conduct](/code-of-conduc
 ## License
 
 Copyright (c) 2019 Jed Watson. Licensed under the MIT License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FVinayaSathyanarayana%2Fkeystone.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FVinayaSathyanarayana%2Fkeystone?ref=badge_large)
